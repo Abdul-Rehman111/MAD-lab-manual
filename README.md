@@ -6,6 +6,8 @@ Name: Abdul Rehman
 
 Reg no: Fa19-bcs-043
 
+Class: BCS 6B
+
 Problem 1
 
 Write program to print the kth digit from last. E.g. input 23617 and k=4 output 3. 
